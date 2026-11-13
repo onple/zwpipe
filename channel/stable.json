@@ -1,0 +1,19 @@
+{
+  "payload": {
+    "schema": 1,
+    "product": "ZWPipe",
+    "channel": "stable",
+    "sequence": 1,
+    "issued_at": "2026-11-13T00:39:25.955344+00:00",
+    "expires_at": "2027-11-13T00:39:25.955344+00:00",
+    "enabled": true,
+    "min_version": "0.5.0",
+    "latest_version": "0.5.0",
+    "blocked_versions": [],
+    "message_ko": "",
+    "message_en": "",
+    "update": null
+  },
+  "signature": "xH2Zlli2F3iKs9KMrUJNLuVosZZKAFTV6jutoVkO/zs4PIJWUJ1ChNKAVTu6ghh4jQdMnBDCqPlvX2BMlUV/AA==",
+  "key_id": "ed25519-04da1c524e6c2d4d"
+}
