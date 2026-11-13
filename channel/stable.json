@@ -3,8 +3,8 @@
     "schema": 1,
     "product": "ZWPipe",
     "channel": "stable",
-    "sequence": 4,
-    "issued_at": "2026-11-13T01:01:47.746044+00:00",
+    "sequence": 5,
+    "issued_at": "2026-11-13T01:19:17.166519+00:00",
     "expires_at": "2027-11-13T01:01:47.746044+00:00",
     "enabled": true,
     "min_version": "0.5.0",
@@ -12,9 +12,15 @@
     "blocked_versions": [],
     "message_ko": "",
     "message_en": "",
-    "update": null
+    "update": {
+      "version": "0.5.0",
+      "url": "https://github.com/onple/zwpipe/releases/download/v0.5.0/ZWPipe-0.5.0-Setup.exe",
+      "sha256": "9410dea204cfb7f1daf347dfcaba446848efbc522aab55987d26b2049eacf39d",
+      "size_bytes": 46689641,
+      "application_sha256": "af882c99ece071909ce3315c6ea93722b6a0930c2772fd2fbbacb98589759e50"
+    }
   },
-  "signature": "xIx8dFGVz9DK/VewzXZYhjdDCdoA9nHll2jp+q3VzceOUG5Vyn17TRNCjfE6wu2IIYllRATJY8PCYW7lGQKYBQ==",
+  "signature": "rhLXC/8W/xbh78gu3EG4WyqR/wGQDW+N2VJu/pZcIVPkyW637xPtrrz4HtVtrFyGzZYmxWgjTlyoLYNl6HT3Bw==",
   "key_id": "ed25519-04da1c524e6c2d4d"
 }
 
