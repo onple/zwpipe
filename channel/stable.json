@@ -3,10 +3,10 @@
     "schema": 1,
     "product": "ZWPipe",
     "channel": "stable",
-    "sequence": 3,
-    "issued_at": "2026-11-13T01:01:46.348972+00:00",
-    "expires_at": "2027-11-13T01:01:46.348972+00:00",
-    "enabled": false,
+    "sequence": 4,
+    "issued_at": "2026-11-13T01:01:47.746044+00:00",
+    "expires_at": "2027-11-13T01:01:47.746044+00:00",
+    "enabled": true,
     "min_version": "0.5.0",
     "latest_version": "0.5.0",
     "blocked_versions": [],
@@ -14,7 +14,7 @@
     "message_en": "",
     "update": null
   },
-  "signature": "4ZLzm1UlfL+CzGGhP1RjZop/QSF8nDcn9lBertm3NU46WZntlPdmiESf22rru/jTbJb6ATFiGHiVdEdRqh9vBw==",
+  "signature": "xIx8dFGVz9DK/VewzXZYhjdDCdoA9nHll2jp+q3VzceOUG5Vyn17TRNCjfE6wu2IIYllRATJY8PCYW7lGQKYBQ==",
   "key_id": "ed25519-04da1c524e6c2d4d"
 }
 
