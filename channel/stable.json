@@ -3,17 +3,23 @@
     "schema": 1,
     "product": "ZWPipe",
     "channel": "stable",
-    "sequence": 13,
-    "issued_at": "2026-11-19T07:19:19.670550+00:00",
+    "sequence": 14,
+    "issued_at": "2026-11-19T07:29:58.605277+00:00",
     "expires_at": "2027-11-18T08:35:15.843136+00:00",
     "enabled": true,
     "min_version": "0.5.0",
     "latest_version": "0.9.0",
     "blocked_versions": [],
-    "message_ko": "",
-    "message_en": "",
-    "update": null
+    "message_ko": "0.9.0 선택 업데이트입니다. 업데이트 설치를 누르면 배포 페이지의 Windows 구성요소 조건에 동의합니다. https://github.com/onple/zwpipe/releases/tag/v0.9.0",
+    "message_en": "Optional 0.9.0 update. By selecting Install update you agree to the Windows component terms on the release page. https://github.com/onple/zwpipe/releases/tag/v0.9.0",
+    "update": {
+      "version": "0.9.0",
+      "url": "https://github.com/onple/zwpipe/releases/download/v0.9.0/ZWPipe-0.9.0-Setup.exe",
+      "sha256": "c8bcb3afdcdccca3984a9d6796164832cfc90cf38a804384da621b19e504c40a",
+      "size_bytes": 59162855,
+      "application_sha256": "5f9750518bfe46adc89e0cb236e71847609419ed63265d9694358bb85779161d"
+    }
   },
-  "signature": "+vagTDSPIE0P/Zrp3s1RemHcunRQOejp/uc8wiFmYzs7HYnIYmA/acVuLZj63YOBxJNP+m2Z8c1/lUEwsgkMBQ==",
+  "signature": "Y346AYM1PwMOJhM1fQRaNvlmn0F+QQaRpD11139h8c+iH/76zh/hblmSmgTyj74TRx2dpCBuaNtQAqAf0h+2AQ==",
   "key_id": "ed25519-04da1c524e6c2d4d"
 }
